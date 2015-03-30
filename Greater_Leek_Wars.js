@@ -2,7 +2,7 @@
 // @name         Greater Leek Wars
 // @namespace    https://github.com/charlesfire
 // @version      0.1
-// @updateURL    https://raw.githubusercontent.com/charlesfire/Greater-Leek-Wars/master/Greater%20Leek%20Wars.js
+// @updateURL    https://raw.githubusercontent.com/charlesfire/Greater-Leek-Wars/master/Greater_Leek_Wars.js
 // @description  This plugin allow you to change Leek Wars' width
 // @author       Charlesfire
 // @include      http://leekwars.com/*
